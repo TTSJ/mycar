@@ -1,6 +1,12 @@
 1
 2
-void test(int a) {
+void test1(int a) {
+}
+
+void test2(int a) {
+}
+
+void test3(int a) {
 }
 3
 4
