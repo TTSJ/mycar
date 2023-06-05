@@ -1,5 +1,3 @@
-1
-2
-3
-4
-5
+void test1(int a);
+void test2(int b);
+void test3(int c);
