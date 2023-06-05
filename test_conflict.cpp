@@ -10,3 +10,5 @@ void test3(int a) {
 }
 3
 4
+void test4(int d) {
+}
